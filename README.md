@@ -4,6 +4,8 @@ A site to view campgrounds across India.
 
 Features:-
 
+Yelpcamp is a fullstack website made using Javascript, Node js, Express, MongoDB for backend and EJS(Embedded JavaScript) for server-side rendering.
+
 Yelpcamp is a site where you can view and review campgrounds across India.
 The website allows the users to create, view, update and delete campgrounds.
 The update and delete campgrounds option is only available to the owner of the campground.
