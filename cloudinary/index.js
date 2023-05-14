@@ -13,7 +13,7 @@ const storage = new CloudinaryStorage({
         folder: 'Yelpcamp',
         allowedFormats: ['jpeg', 'png', 'jpg'],
         transformation: [
-            { width: 400, height: 400, gravity: "auto", crop: "fill" },
+            { width: 300, height: 400, gravity: "auto", crop: "fill" },
         ], 
     }
 });

@@ -24,6 +24,7 @@ const CampgroundSchema = new Schema({
         }
     },
     price: Number,
+    contact: Number,
     description: String,
     location: String,
     author:
